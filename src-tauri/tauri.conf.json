@@ -37,9 +37,9 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "excalidraw-tauri-app",
-        "width": 800,
-        "height": 600
+        "title": "Excalidraw Tauri App",
+        "width": 1024,
+        "height": 768
       }
     ]
   }
